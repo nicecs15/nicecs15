@@ -1,5 +1,7 @@
 ### Hi I'm patcharapon nipaphorn I'm studying at RMUTK Computer Science👋
 
+<div align="center"> <img src="https://github.com/nicecs15/nicecs15/blob/main/github-header-image.png?raw=true"> </div>
+
 <h2 align="left">👨🏻‍💻 About Me: </h2> 
 
 - 💻 สวัสดีครับ ผมชือพัชรพล นิพาภรณ์ กำลังศึกษาอยู่ชั้นปีที่ 4 
@@ -21,5 +23,3 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
 </div>
-
-![github-header-image.png]

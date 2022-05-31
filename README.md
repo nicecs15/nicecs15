@@ -1,6 +1,6 @@
 ### Hi I'm patcharapon nipaphorn I'm studying at RMUTK Computer Science👋
 
-<div align="center"> <img src="https://github.com/nicecs15/nicecs15/blob/main/github-header-image%20(1).png"> </div>
+<div align="center"> <img src="https://github.com/nicecs15/nicecs15/blob/main/github-header-image%20(2).png"> </div>
 
 <h2 align="left">👨🏻‍💻 About Me: </h2> 
 

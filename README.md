@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ITravel](https://github.com/nicecs15/ITravel)
 
-- 🌱 I’m currently learning **Flutter dart firebase**
+- 🌱 I’m currently learning **Flutter dart firebase , Java Sql**
 
 - 📫 How to reach me **patcharapon_csit15@gmail.com**
 

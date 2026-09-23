@@ -4,9 +4,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me: </h2> 
 
-- 💻 สวัสดีครับ ผมชือพัชรพล นิพาภรณ์ กำลังศึกษาอยู่ชั้นปีที่ 4 
+- 💻 สวัสดีครับ ผมชือพัชรพล นิพาภรณ์
 
-- 🔭 I’m currently working on [ITravel](https://github.com/nicecs15/ITravel)
+- 🔭 I’m currently working on [ITravel](https://github.com/nicecs15/ITravel) (Project for University)
 
 - 🌱 I’m currently learning **Flutter dart firebase , Java Sql**
 
